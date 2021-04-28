@@ -1,0 +1,3 @@
+#include <stdbool.h>
+
+bool weekend[] = {true, [6] = true};
